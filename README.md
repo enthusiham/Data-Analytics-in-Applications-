@@ -13,7 +13,7 @@
 ### Part 2. Modelling - Yeonjoo
 ### Part 2. Evaluation - Yeonjoo
 ### Part 2. Deployment - Yeonjoo
-### Report editor - Sanskruti
+### Report formatting to ieee standards - Sanskruti
 
 
 ## Code Authors - written in the Jupyter Notebook in detail
