@@ -17,7 +17,8 @@
 
 
 ## Code Authors - written in the Jupyter Notebook in detail
-### Cookie data cleaning
-### Cookie modelling
+### Cookie data preparation - Jan
+#### -> removing outliars - Sanskruti
+### Cookie modelling - Ahkil & Jan
 ### Socio data cleaning - Yeonjoo
 ### Socio data modelling - Yeonjoo
