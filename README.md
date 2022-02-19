@@ -1,6 +1,7 @@
 # Data-Analytics-in-Applications-Cookie Use Case 
 
 ## Report authors
+### Abstract - Sanskruti
 ### Part 1. Business understanding - Ahkil
 ### Part 1. Data understanding - Jan
 ### Part 1. Data preparation - Jan
